@@ -1,0 +1,83 @@
+owner: 30SAS # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+
+sites:
+  - name: MS - api orchestrator
+    url: $MS_API_ORCHESTRATOR_URL
+    method: GET
+  - name: MS - B2B 
+    url: $MS_B2B_URL
+    method: GET
+  #- name: kyc
+  #  url: $MS_KYC_URL
+  #  method: GET
+  #  headers:
+  #    - $MS_KYC_HEADER
+  #- name: mpos
+  #  url: $MS_MPOS_URL
+  #  method: GET
+  #  headers:
+  #    - $MS_MPOS_HEADER
+  - name: MS - delivery
+    url: $MS_DELIVERY_URL
+    method: GET
+    headers:
+      - $MS_DELIVERY_HEADER
+  - name: MS - ex-income
+    url: $MS_EX_INCOME_URL
+    method: GET
+    headers:
+      - $MS_EX_INCOME_HEADER
+  #- name: payments
+  #  url: $MS_PAYMENTS_URL
+  #  method: GET
+  #  headers:
+  #    - $MS_PAYMENTS_HEADER
+  - name: MS - shop
+    url: $MS_SHOP_URL
+    method: GET
+    headers:
+      - $MS_SHOP_HEADER
+  - name: MS - notifications
+    url: $MS_NOTIFICATIONS_URL
+    method: GET
+    headers:
+      - $MS_NOTIFICATIONS_HEADER
+  - name: MS - transactions
+    url: $MS_TRANSACTIONS_URL
+    method: GET
+    headers:
+      - $MS_TRANSACTIONS_HEADER
+  - name: MS - stores
+    url: $MS_STORES_URL
+    method: GET
+    headers:
+      - $MS_STORES_HEADER
+  - name: MS - users
+    url: $MS_USERS_URL
+    method: GET
+    headers:
+      - $MS_USERS_HEADER
+  - name: MS - links
+    url: $MS_LINKS_URL
+    method: GET
+  - name: WEB - web.treinta.co
+    url: $WEB_WEB_TREINTA_CO_URL
+    method: GET
+  - name: WEB - Treinta Shop
+    url: $WEB_TREINTA_SHOP_URL
+    method: GET
+  - name: WEB - treinta.co
+    url: $WEB_TREINTA_CO_URL
+    method: GET
+status-website:
+  cname: statuskingo.treinta.co
+  baseUrl: /
+  name: Treinta
+  #introTitle: "**Treinta** uptime."
+  introMessage: Estado de servicios y apps de Treinta.
+  favicon: https://assets.website-files.com/613658193a97c8a9e51ed56a/61783e0ee1715b5ae15ea16f_favicon%20256.jpeg
+i18n:
+  footer: .
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
