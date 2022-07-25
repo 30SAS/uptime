@@ -1,7 +1,7 @@
 url: $MS_TRANSACTIONS_URL
-status: down
-code: 403
-responseTime: 24
-lastUpdated: 2022-07-24T23:05:01.314Z
+status: up
+code: 200
+responseTime: 201
+lastUpdated: 2022-07-25T22:46:05.764Z
 startTime: Fri Apr 01 2022 23:59:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
