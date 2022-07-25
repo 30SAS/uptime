@@ -4,19 +4,25 @@ repo: uptime # The name of this repository
 sites:
   - name: MS - api orchestrator
     url: $MS_API_ORCHESTRATOR_URL
-    headers:
-      - $MS_DELIVERY_HEADER
     method: GET
   - name: MS - B2B 
     url: $MS_B2B_URL
     method: GET
-    headers:
-      - $MS_DELIVERY_HEADER
   - name: MS - delivery
     url: $MS_DELIVERY_URL
     method: GET
     headers:
       - $MS_DELIVERY_HEADER
+  # - name: kyc
+  #   url: $MS_KYC_URL
+  #   method: GET
+  #   headers:
+  #     - $MS_KYC_HEADER
+  #- name: mpos
+  #  url: $MS_MPOS_URL
+  #  method: GET
+  #  headers:
+  #    - $MS_MPOS_HEADER
   - name: MS - ex-income
     url: $MS_EX_INCOME_URL
     method: GET
