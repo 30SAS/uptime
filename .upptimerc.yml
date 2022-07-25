@@ -8,11 +8,11 @@ sites:
   - name: MS - B2B 
     url: $MS_B2B_URL
     method: GET
-  - name: kyc
-    url: $MS_KYC_URL
-    method: GET
-    headers:
-      - $MS_KYC_HEADER
+  # - name: kyc
+  #   url: $MS_KYC_URL
+  #   method: GET
+  #   headers:
+  #     - $MS_KYC_HEADER
   #- name: mpos
   #  url: $MS_MPOS_URL
   #  method: GET
