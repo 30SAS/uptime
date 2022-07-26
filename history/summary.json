@@ -202,18 +202,20 @@
     "url": "$WEB_TREINTA_SHOP_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "web-treinta-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 752,
-    "timeDay": 752,
-    "timeWeek": 752,
-    "timeMonth": 752,
-    "timeYear": 752,
-    "dailyMinutesDown": {}
+    "time": 650,
+    "timeDay": 650,
+    "timeWeek": 650,
+    "timeMonth": 650,
+    "timeYear": 650,
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   },
   {
     "name": "WEB - treinta.co",
