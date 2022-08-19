@@ -118,19 +118,19 @@
     "url": "$MS_NOTIFICATIONS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-notifications",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1696,
-    "timeDay": 4340,
-    "timeWeek": 3819,
-    "timeMonth": 1696,
-    "timeYear": 1696,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 1658,
+    "timeDay": 4332,
+    "timeWeek": 3605,
+    "timeMonth": 1658,
+    "timeYear": 1658,
     "dailyMinutesDown": {
-      "2022-08-19": 0
+      "2022-08-19": 11
     }
   },
   {
