@@ -4,19 +4,19 @@
     "url": "$MS_API_ORCHESTRATOR_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-api-orchestrator",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 235,
-    "timeWeek": 268,
-    "timeMonth": 272,
-    "timeYear": 292,
+    "time": 289,
+    "timeDay": 213,
+    "timeWeek": 257,
+    "timeMonth": 269,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2022-09-05": 0
+      "2022-09-05": 9
     }
   },
   {
