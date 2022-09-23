@@ -22,319 +22,319 @@ sites:
     url: $MS_API-ORCHESTRATOR_URL
     method: GET
     headers:
-      - $MS_API-ORCHESTRATOR_HEADER
+      - $MS_HEADER
 
   - name: MS - TREINTA-API
     url: $MS_TREINTA-API_URL
     method: GET
     headers:
-      - $MS_TREINTA-API_HEADER
+      - $MS_HEADER
 
   - name: MS - LEDGER-API
     url: $MS_LEDGER-API_URL
     method: GET
     headers:
-      - $MS_LEDGER-API_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-API
     url: $MS_PAYMENTS-API_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-API_HEADER
+      - $MS_HEADER
 
   - name: MS - API-ADMIN
     url: $MS_API-ADMIN_URL
     method: GET
     headers:
-      - $MS_API-ADMIN_HEADER
+      - $MS_HEADER
 
   - name: MS - API-ADMIN-INT
     url: $MS_API-ADMIN-INT_URL
     method: GET
     headers:
-      - $MS_API-ADMIN-INT_HEADER
+      - $MS_HEADER
 
   - name: MS - VADD-ALERT-GENERATOR
     url: $MS_VADD-ALERT-GENERATOR_URL
     method: GET
     headers:
-      - $MS_VADD-ALERT-GENERATOR_HEADER
+      - $MS_HEADER
 
   - name: MS - VADD-ALERT-FILTER
     url: $MS_VADD-ALERT-FILTER_URL
     method: GET
     headers:
-      - $MS_VADD-ALERT-FILTER_HEADER
+      - $MS_HEADER
 
   - name: MS - VADD-ALERT-SENDING
     url: $MS_VADD-ALERT-SENDING_URL
     method: GET
     headers:
-      - $MS_VADD-ALERT-SENDING_HEADER
+      - $MS_HEADER
 
   - name: MS - VADD-STATISTICS-API
     url: $MS_VADD-STATISTICS-API_URL
     method: GET
     headers:
-      - $MS_VADD-STATISTICS-API_HEADER
+      - $MS_HEADER
 
   - name: MS - VADD-STATS-AGGREGATOR
     url: $MS_VADD-STATS-AGGREGATOR_URL
     method: GET
     headers:
-      - $MS_VADD-STATS-AGGREGATOR_HEADER
+      - $MS_HEADER
 
   - name: MS - HOME-API
     url: $MS_HOME-API_URL
     method: GET
     headers:
-      - $MS_HOME-API_HEADER
+      - $MS_HEADER
 
   - name: MS - USERS
     url: $MS_USERS_URL
     method: GET
     headers:
-      - $MS_USERS_HEADER
+      - $MS_HEADER
 
   - name: MS - STORES
     url: $MS_STORES_URL
     method: GET
     headers:
-      - $MS_STORES_HEADER
+      - $MS_HEADER
 
   - name: MS - TRANSACTIONS
     url: $MS_TRANSACTIONS_URL
     method: GET
     headers:
-      - $MS_TRANSACTIONS_HEADER
+      - $MS_HEADER
 
   - name: MS - NOTIFICATIONS
     url: $MS_NOTIFICATIONS_URL
     method: GET
     headers:
-      - $MS_NOTIFICATIONS_HEADER
+      - $MS_HEADER
 
   - name: MS - SHOP
     url: $MS_SHOP_URL
     method: GET
     headers:
-      - $MS_SHOP_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS
     url: $MS_PAYMENTS_URL
     method: GET
     headers:
-      - $MS_PAYMENTS_HEADER
+      - $MS_HEADER
 
   - name: MS - EX-INCOME
     url: $MS_EX-INCOME_URL
     method: GET
     headers:
-      - $MS_EX-INCOME_HEADER
+      - $MS_HEADER
 
   - name: MS - DELIVERY
     url: $MS_DELIVERY_URL
     method: GET
     headers:
-      - $MS_DELIVERY_HEADER
+      - $MS_HEADER
 
   - name: MS - MPOS
     url: $MS_MPOS_URL
     method: GET
     headers:
-      - $MS_MPOS_HEADER
+      - $MS_HEADER
 
   - name: MS - KYC
     url: $MS_KYC_URL
     method: GET
     headers:
-      - $MS_KYC_HEADER
+      - $MS_HEADER
 
   - name: MS - CASHOUT
     url: $MS_CASHOUT_URL
     method: GET
     headers:
-      - $MS_CASHOUT_HEADER
+      - $MS_HEADER
 
   - name: MS - INVOICING
     url: $MS_INVOICING_URL
     method: GET
     headers:
-      - $MS_INVOICING_HEADER
+      - $MS_HEADER
 
   - name: MS - B2B
     url: $MS_B2B_URL
     method: GET
     headers:
-      - $MS_B2B_HEADER
+      - $MS_HEADER
 
   - name: MS - WORKER-TRANSACTIONS
     url: $MS_WORKER-TRANSACTIONS_URL
     method: GET
     headers:
-      - $MS_WORKER-TRANSACTIONS_HEADER
+      - $MS_HEADER
 
   - name: MS - WALLET
     url: $MS_WALLET_URL
     method: GET
     headers:
-      - $MS_WALLET_HEADER
+      - $MS_HEADER
 
   - name: MS - GAMIFICATION
     url: $MS_GAMIFICATION_URL
     method: GET
     headers:
-      - $MS_GAMIFICATION_HEADER
+      - $MS_HEADER
 
   - name: MS - HELP
     url: $MS_HELP_URL
     method: GET
     headers:
-      - $MS_HELP_HEADER
+      - $MS_HEADER
 
   - name: MS - WEBHOOK-MOVII-POS
     url: $MS_WEBHOOK-MOVII-POS_URL
     method: GET
     headers:
-      - $MS_WEBHOOK-MOVII-POS_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-DISBURSER
     url: $MS_PAYMENTS-DISBURSER_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-DISBURSER_HEADER
+      - $MS_HEADER
 
   - name: MS - WORKER-PAYMENTS-JUDGE
     url: $MS_WORKER-PAYMENTS-JUDGE_URL
     method: GET
     headers:
-      - $MS_WORKER-PAYMENTS-JUDGE_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-GATEKEEPER
     url: $MS_PAYMENTS-GATEKEEPER_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-GATEKEEPER_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-DATA-LOADER
     url: $MS_PAYMENTS-DATA-LOADER_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-DATA-LOADER_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-ENTRY-MANAGER
     url: $MS_PAYMENTS-ENTRY-MANAGER_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-ENTRY-MANAGER_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-FEE-MANAGER
     url: $MS_PAYMENTS-FEE-MANAGER_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-FEE-MANAGER_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-VOUCHER
     url: $MS_PAYMENTS-VOUCHER_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-VOUCHER_HEADER
+      - $MS_HEADER
 
   - name: MS - WORKER-WALLET
     url: $MS_WORKER-WALLET_URL
     method: GET
     headers:
-      - $MS_WORKER-WALLET_HEADER
+      - $MS_HEADER
 
   - name: MS - DATALAKE-MICROSERVICE
     url: $MS_DATALAKE-MICROSERVICE_URL
     method: GET
     headers:
-      - $MS_DATALAKE-MICROSERVICE_HEADER
+      - $MS_HEADER
 
   - name: MS - SKU-SERVICE
     url: $MS_SKU-SERVICE_URL
     method: GET
     headers:
-      - $MS_SKU-SERVICE_HEADER
+      - $MS_HEADER
 
   - name: MS - PAYMENTS-FRAUD
     url: $MS_PAYMENTS-FRAUD_URL
     method: GET
     headers:
-      - $MS_PAYMENTS-FRAUD_HEADER
+      - $MS_HEADER
 
   - name: MS - DATA-STATISTICS
     url: $MS_DATA-STATISTICS_URL
     method: GET
     headers:
-      - $MS_DATA-STATISTICS_HEADER
+      - $MS_HEADER
 
   - name: MS - FINTECH-NOTIFICATIONS
     url: $MS_FINTECH-NOTIFICATIONS_URL
     method: GET
     headers:
-      - $MS_FINTECH-NOTIFICATIONS_HEADER
+      - $MS_HEADER
 
   - name: MS - FINTECH-REPORTS-GEN
     url: $MS_FINTECH-REPORTS-GEN_URL
     method: GET
     headers:
-      - $MS_FINTECH-REPORTS-GEN_HEADER
+      - $MS_HEADER
 
   - name: MS - PACO
     url: $MS_PACO_URL
     method: GET
     headers:
-      - $MS_PACO_HEADER
+      - $MS_HEADER
 
   - name: MS - WORKER-POS
     url: $MS_WORKER-POS_URL
     method: GET
     headers:
-      - $MS_WORKER-POS_HEADER
+      - $MS_HEADER
 
   - name: MS - SYNC
     url: $MS_SYNC_URL
     method: GET
     headers:
-      - $MS_SYNC_HEADER
+      - $MS_HEADER
 
   - name: MS - ENTRY-MANAGER
     url: $MS_ENTRY-MANAGER_URL
     method: GET
     headers:
-      - $MS_ENTRY-MANAGER_HEADER
+      - $MS_HEADER
 
   - name: MS - AUTHENTICATION
     url: $MS_AUTHENTICATION_URL
     method: GET
     headers:
-      - $MS_AUTHENTICATION_HEADER
+      - $MS_HEADER
 
   - name: MS - LOGISTICS
     url: $MS_LOGISTICS_URL
     method: GET
     headers:
-      - $MS_LOGISTICS_HEADER
+      - $MS_HEADER
 
   - name: MS - WALLET-GAMIFICATION
     url: $MS_WALLET-GAMIFICATION_URL
     method: GET
     headers:
-      - $MS_WALLET-GAMIFICATION_HEADER
+      - $MS_HEADER
 
   - name: MS - CHECKOUT
     url: $MS_CHECKOUT_URL
     method: GET
     headers:
-      - $MS_CHECKOUT_HEADER
+      - $MS_HEADER
 
   - name: MS - REPORTS
     url: $MS_REPORTS_URL
     method: GET
     headers:
-      - $MS_REPORTS_HEADER
+      - $MS_HEADER
 
 status-website:
   cname: statuskingo.treinta.co
