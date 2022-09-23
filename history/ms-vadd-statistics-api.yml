@@ -1,7 +1,7 @@
 url: $MS_VADD_STATISTICS_API_URL
 status: down
-code: 502
-responseTime: 41
-lastUpdated: 2022-09-23T18:12:49.435Z
+code: 403
+responseTime: 27
+lastUpdated: 2022-09-23T18:41:09.766Z
 startTime: Fri Sep 23 2022 17:20:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
