@@ -1,7 +1,7 @@
 url: $MS_VADD_ALERT_FILTER_URL
 status: down
-code: 502
-responseTime: 77
-lastUpdated: 2022-09-23T18:12:48.421Z
+code: 403
+responseTime: 24
+lastUpdated: 2022-09-23T18:41:08.839Z
 startTime: Fri Sep 23 2022 17:20:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
