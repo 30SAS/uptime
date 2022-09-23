@@ -1,7 +1,7 @@
 url: $MS_USERS_URL
 status: down
-code: 403
-responseTime: 101
-lastUpdated: 2022-09-23T17:52:29.155Z
+code: 502
+responseTime: 45
+lastUpdated: 2022-09-23T18:12:50.918Z
 startTime: Fri Apr 01 2022 23:59:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
