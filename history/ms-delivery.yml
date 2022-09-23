@@ -1,7 +1,7 @@
 url: $MS_DELIVERY_URL
-status: up
-code: 200
-responseTime: 1142
-lastUpdated: 2022-09-22T23:00:32.676Z
+status: down
+code: 502
+responseTime: 106
+lastUpdated: 2022-09-23T17:20:27.947Z
 startTime: Fri Apr 01 2022 23:59:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
