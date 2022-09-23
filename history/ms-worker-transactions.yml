@@ -1,7 +1,7 @@
-url: $MS_WORKER-TRANSACTIONS_URL
+url: $MS_WORKER_TRANSACTIONS_URL
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-09-23T17:52:34.555Z
+code: 502
+responseTime: 39
+lastUpdated: 2022-09-23T18:12:57.569Z
 startTime: Fri Sep 23 2022 17:20:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
