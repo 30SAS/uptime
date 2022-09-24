@@ -70,18 +70,6 @@ sites:
     headers:
       - $MS_HEADER
 
-  - name: MS - VADD-STATISTICS-API
-    url: $MS_VADD_STATISTICS_API_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - VADD-STATS-AGGREGATOR
-    url: $MS_VADD_STATS_AGGREGATOR_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
   - name: MS - HOME-API
     url: $MS_HOME_API_URL
     method: GET
@@ -144,12 +132,6 @@ sites:
 
   - name: MS - KYC
     url: $MS_KYC_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - CASHOUT
-    url: $MS_CASHOUT_URL
     method: GET
     headers:
       - $MS_HEADER
@@ -260,20 +242,9 @@ sites:
     headers:
       - $MS_HEADER
 
-  - name: MS - DATA-STATISTICS
-    url: $MS_DATA_STATISTICS_URL
-    method: GET
-    headers:
-      - $MS_HEADER
 
   - name: MS - FINTECH-NOTIFICATIONS
     url: $MS_FINTECH_NOTIFICATIONS_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - FINTECH-REPORTS-GEN
-    url: $MS_FINTECH_REPORTS-GEN_URL
     method: GET
     headers:
       - $MS_HEADER
@@ -322,12 +293,6 @@ sites:
 
   - name: MS - CHECKOUT
     url: $MS_CHECKOUT_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - REPORTS
-    url: $MS_REPORTS_URL
     method: GET
     headers:
       - $MS_HEADER
