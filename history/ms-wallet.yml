@@ -1,7 +1,7 @@
 url: $MS_WALLET_URL
-status: down
-code: 403
-responseTime: 25
-lastUpdated: 2022-09-23T23:00:47.827Z
+status: up
+code: 200
+responseTime: 182
+lastUpdated: 2022-09-24T11:07:12.776Z
 startTime: Fri Sep 23 2022 17:20:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
