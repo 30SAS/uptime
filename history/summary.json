@@ -111,7 +111,7 @@
     "timeMonth": 195,
     "timeYear": 195,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 691,
       "2022-09-23": 400
     }
   },
@@ -132,7 +132,7 @@
     "timeMonth": 51,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 691,
       "2022-09-23": 400
     }
   },
@@ -142,18 +142,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-payments-api",
     "status": "down",
-    "uptime": "1.41%",
-    "uptimeDay": "1.41%",
-    "uptimeWeek": "1.41%",
-    "uptimeMonth": "1.41%",
-    "uptimeYear": "1.41%",
+    "uptime": "1.39%",
+    "uptimeDay": "1.39%",
+    "uptimeWeek": "1.39%",
+    "uptimeMonth": "1.39%",
+    "uptimeYear": "1.39%",
     "time": 87,
     "timeDay": 87,
     "timeWeek": 87,
     "timeMonth": 87,
     "timeYear": 87,
     "dailyMinutesDown": {
-      "2022-09-24": 665,
+      "2022-09-24": 676,
       "2022-09-23": 400
     }
   },
@@ -163,11 +163,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-api-admin",
     "status": "up",
-    "uptime": "3.59%",
-    "uptimeDay": "3.59%",
-    "uptimeWeek": "3.59%",
-    "uptimeMonth": "3.59%",
-    "uptimeYear": "3.59%",
+    "uptime": "4.60%",
+    "uptimeDay": "4.60%",
+    "uptimeWeek": "4.60%",
+    "uptimeMonth": "4.60%",
+    "uptimeYear": "4.60%",
     "time": 100,
     "timeDay": 100,
     "timeWeek": 100,
@@ -184,11 +184,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-api-admin-int",
     "status": "up",
-    "uptime": "3.59%",
-    "uptimeDay": "3.59%",
-    "uptimeWeek": "3.59%",
-    "uptimeMonth": "3.59%",
-    "uptimeYear": "3.59%",
+    "uptime": "4.60%",
+    "uptimeDay": "4.60%",
+    "uptimeWeek": "4.60%",
+    "uptimeMonth": "4.60%",
+    "uptimeYear": "4.60%",
     "time": 89,
     "timeDay": 89,
     "timeWeek": 89,
@@ -216,7 +216,7 @@
     "timeMonth": 47,
     "timeYear": 47,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 692,
       "2022-09-23": 400
     }
   },
@@ -237,7 +237,7 @@
     "timeMonth": 54,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 692,
       "2022-09-23": 400
     }
   },
@@ -258,7 +258,7 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 692,
       "2022-09-23": 400
     }
   },
@@ -279,7 +279,7 @@
     "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 692,
       "2022-09-23": 400
     }
   },
@@ -300,7 +300,7 @@
     "timeMonth": 49,
     "timeYear": 49,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 692,
       "2022-09-23": 400
     }
   },
@@ -310,11 +310,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-home-api",
     "status": "up",
-    "uptime": "3.59%",
-    "uptimeDay": "3.59%",
-    "uptimeWeek": "3.59%",
-    "uptimeMonth": "3.59%",
-    "uptimeYear": "3.59%",
+    "uptime": "4.60%",
+    "uptimeDay": "4.60%",
+    "uptimeWeek": "4.60%",
+    "uptimeMonth": "4.60%",
+    "uptimeYear": "4.60%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
@@ -455,7 +455,7 @@
     "timeMonth": 54,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2022-09-24": 680,
+      "2022-09-24": 692,
       "2022-09-23": 400
     }
   },
@@ -489,11 +489,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-delivery",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "27.15%",
     "uptimeWeek": "89.59%",
     "uptimeMonth": "97.55%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 872,
     "timeDay": 72,
     "timeWeek": 506,
@@ -816,17 +816,17 @@
     "url": "$MS_WORKER_WALLET_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-worker-wallet",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 47,
-    "timeDay": 47,
-    "timeWeek": 47,
-    "timeMonth": 47,
-    "timeYear": 47,
+    "time": 73,
+    "timeDay": 73,
+    "timeWeek": 73,
+    "timeMonth": 73,
+    "timeYear": 73,
     "dailyMinutesDown": {}
   },
   {
@@ -834,17 +834,17 @@
     "url": "$MS_DATALAKE_MICROSERVICE_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ms-datalake-microservice",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 48,
-    "timeDay": 48,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   },
   {
