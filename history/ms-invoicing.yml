@@ -1,7 +1,7 @@
 url: $MS_INVOICING_URL
-status: down
-code: 500
-responseTime: 97
-lastUpdated: 2022-09-28T19:44:52.305Z
+status: up
+code: 200
+responseTime: 179
+lastUpdated: 2022-09-28T19:57:59.129Z
 startTime: Fri Sep 23 2022 17:20:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
