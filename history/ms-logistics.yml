@@ -1,7 +1,7 @@
 url: $MS_LOGISTICS_URL
-status: up
-code: 200
-responseTime: 199
-lastUpdated: 2022-11-12T23:00:58.458Z
+status: down
+code: 404
+responseTime: 197
+lastUpdated: 2022-11-13T13:47:23.264Z
 startTime: Fri Sep 23 2022 17:20:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
