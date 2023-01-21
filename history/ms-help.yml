@@ -1,7 +1,7 @@
 url: $MS_HELP_URL
-status: down
-code: 404
-responseTime: 208
-lastUpdated: 2023-01-21T11:53:39.697Z
+status: up
+code: 200
+responseTime: 202
+lastUpdated: 2023-01-21T12:03:30.781Z
 startTime: Fri Sep 23 2022 17:20:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
