@@ -1,7 +1,7 @@
 url: $MS_VADD_ALERT_SENDING_URL
 status: up
 code: 200
-responseTime: 167
-lastUpdated: 2023-04-21T23:00:47.831Z
+responseTime: 148
+lastUpdated: 2023-04-22T23:00:48.799Z
 startTime: Fri Sep 23 2022 17:20:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
