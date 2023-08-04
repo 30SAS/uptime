@@ -1,7 +1,7 @@
 url: $MS_VADD_ALERT_SENDING_URL
 status: down
 code: 404
-responseTime: 254
-lastUpdated: 2023-08-03T23:00:40.231Z
+responseTime: 181
+lastUpdated: 2023-08-04T23:00:38.885Z
 startTime: Fri Sep 23 2022 17:20:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
