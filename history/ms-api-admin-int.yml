@@ -1,7 +1,7 @@
 url: $MS_API_ADMIN_INT_URL
-status: down
-code: 404
-responseTime: 243
-lastUpdated: 2023-08-04T03:00:17.786Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2023-08-04T03:11:03.348Z
 startTime: Fri Sep 23 2022 17:19:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
