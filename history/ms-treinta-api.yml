@@ -1,7 +1,7 @@
 url: $MS_TREINTA_API_URL
-status: down
-code: 404
-responseTime: 428
-lastUpdated: 2023-08-10T14:12:28.234Z
+status: up
+code: 200
+responseTime: 462
+lastUpdated: 2023-08-10T14:24:16.457Z
 startTime: Fri Sep 23 2022 17:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
