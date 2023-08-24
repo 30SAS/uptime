@@ -52,24 +52,6 @@ sites:
     headers:
       - $MS_HEADER
 
-  - name: MS - VADD-ALERT-GENERATOR
-    url: $MS_VADD_ALERT_GENERATOR_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - VADD-ALERT-FILTER
-    url: $MS_VADD_ALERT_FILTER_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - VADD-ALERT-SENDING
-    url: $MS_VADD_ALERT_SENDING_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
   - name: MS - HOME-API
     url: $MS_HOME_API_URL
     method: GET
@@ -118,12 +100,6 @@ sites:
     headers:
       - $MS_HEADER
 
-  - name: MS - DELIVERY
-    url: $MS_DELIVERY_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
   - name: MS - MPOS
     url: $MS_MPOS_URL
     method: GET
@@ -132,12 +108,6 @@ sites:
 
   - name: MS - KYC
     url: $MS_KYC_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - INVOICING
-    url: $MS_INVOICING_URL
     method: GET
     headers:
       - $MS_HEADER
@@ -208,12 +178,6 @@ sites:
 
   - name: MS - PAYMENTS-FEE-MANAGER
     url: $MS_PAYMENTS_FEE_MANAGER_URL
-    method: GET
-    headers:
-      - $MS_HEADER
-
-  - name: MS - PAYMENTS-VOUCHER
-    url: $MS_PAYMENTS_VOUCHER_URL
     method: GET
     headers:
       - $MS_HEADER
