@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_API_URL
-status: down
-code: 404
-responseTime: 266
-lastUpdated: 2023-09-01T05:46:52.039Z
+status: up
+code: 200
+responseTime: 252
+lastUpdated: 2023-09-01T05:55:28.195Z
 startTime: 2022-09-23T17:19:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
