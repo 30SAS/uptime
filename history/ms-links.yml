@@ -1,7 +1,7 @@
 url: $MS_LINKS_URL
-status: down
-code: 404
-responseTime: 318
-lastUpdated: 2023-09-01T22:27:24.085Z
+status: up
+code: 200
+responseTime: 159
+lastUpdated: 2023-09-01T22:35:56.971Z
 startTime: 2022-05-11T13:57:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
