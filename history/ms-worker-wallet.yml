@@ -1,7 +1,7 @@
 url: $MS_WORKER_WALLET_URL
-status: down
-code: 404
-responseTime: 175
-lastUpdated: 2023-09-07T12:00:07.742Z
+status: up
+code: 200
+responseTime: 202
+lastUpdated: 2023-09-07T12:12:23.292Z
 startTime: 2022-09-23T17:20:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
