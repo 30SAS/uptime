@@ -352,8 +352,7 @@
       "2023-02-17": 52,
       "2022-09-24": 595,
       "2022-09-23": 400,
-      "2022-09-13": 20,
-      "2022-09-12": 17
+      "2022-09-13": 20
     }
   },
   {
@@ -817,11 +816,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ms-sku-service",
     "status": "up",
-    "uptime": "87.19%",
+    "uptime": "87.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.19%",
+    "uptimeYear": "87.20%",
     "time": 205,
     "timeDay": 237,
     "timeWeek": 211,
@@ -905,9 +904,9 @@
     "slug": "ms-fintech-notifications",
     "status": "up",
     "uptime": "96.90%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "96.90%",
     "time": 205,
     "timeDay": 194,
@@ -915,7 +914,6 @@
     "timeMonth": 208,
     "timeYear": 205,
     "dailyMinutesDown": {
-      "2023-09-11": 9,
       "2023-02-17": 52,
       "2022-10-10": 1181,
       "2022-10-09": 1440,
@@ -1083,7 +1081,8 @@
     "timeMonth": 209,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2023-09-11": 1415,
+      "2023-09-12": 5,
+      "2023-09-11": 1440,
       "2023-09-10": 1440,
       "2023-09-09": 1440,
       "2023-09-08": 1440,
