@@ -1,7 +1,7 @@
 url: $MS_SHOP_URL
-status: down
-code: 503
-responseTime: 253
-lastUpdated: 2023-10-26T04:05:22.554Z
+status: up
+code: 200
+responseTime: 321
+lastUpdated: 2023-10-26T05:02:57.045Z
 startTime: 2022-04-01T23:59:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
