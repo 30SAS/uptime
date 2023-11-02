@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_DATA_LOADER_URL
-status: up
-code: 200
+status: down
+code: 404
 responseTime: 215
-lastUpdated: 2023-11-01T23:00:52.724Z
+lastUpdated: 2023-11-02T16:01:29.635Z
 startTime: 2022-09-23T17:20:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
