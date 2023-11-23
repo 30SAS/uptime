@@ -1,7 +1,7 @@
 url: $WEB_WEB_TREINTA_CO_URL
-status: down
-code: 404
-responseTime: 145
-lastUpdated: 2023-11-23T08:56:49.569Z
+status: up
+code: 200
+responseTime: 684
+lastUpdated: 2023-11-23T09:07:18.030Z
 startTime: 2022-04-01T23:33:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
