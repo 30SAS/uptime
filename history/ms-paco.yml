@@ -1,7 +1,7 @@
 url: $MS_PACO_URL
-status: down
-code: 404
-responseTime: 223
-lastUpdated: 2023-12-17T09:20:53.342Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2023-12-17T09:29:32.902Z
 startTime: 2022-09-23T17:20:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
