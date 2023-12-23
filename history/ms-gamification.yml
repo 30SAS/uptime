@@ -1,7 +1,7 @@
 url: $MS_GAMIFICATION_URL
-status: down
-code: 502
-responseTime: 253
-lastUpdated: 2023-12-23T03:23:28.516Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2023-12-23T03:32:08.788Z
 startTime: 2022-09-23T17:20:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
