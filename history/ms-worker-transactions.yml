@@ -1,7 +1,7 @@
 url: $MS_WORKER_TRANSACTIONS_URL
 status: up
 code: 200
-responseTime: 172
-lastUpdated: 2024-01-05T23:02:09.435Z
+responseTime: 180
+lastUpdated: 2024-01-06T23:01:37.502Z
 startTime: 2022-09-23T17:20:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
