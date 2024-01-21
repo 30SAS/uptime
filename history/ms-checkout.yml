@@ -1,7 +1,7 @@
 url: $MS_CHECKOUT_URL
-status: down
-code: 404
-responseTime: 178
-lastUpdated: 2024-01-21T09:19:31.287Z
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2024-01-21T09:31:34.722Z
 startTime: 2022-09-23T17:20:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
