@@ -1,7 +1,7 @@
 url: $MS_NOTIFICATIONS_URL
-status: down
-code: 404
-responseTime: 191
-lastUpdated: 2024-03-03T09:21:36.817Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2024-03-03T09:30:04.910Z
 startTime: 2022-04-02T00:03:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
