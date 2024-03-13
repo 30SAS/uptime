@@ -1,7 +1,7 @@
 url: $MS_STORES_URL
-status: up
-code: 200
-responseTime: 171
-lastUpdated: 2024-03-12T23:00:31.872Z
+status: down
+code: 404
+responseTime: 195
+lastUpdated: 2024-03-13T16:58:12.188Z
 startTime: 2022-04-02T00:01:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
