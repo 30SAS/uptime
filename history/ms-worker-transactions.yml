@@ -1,7 +1,7 @@
 url: $MS_WORKER_TRANSACTIONS_URL
-status: down
-code: 404
-responseTime: 174
-lastUpdated: 2024-03-17T09:25:25.065Z
+status: up
+code: 200
+responseTime: 172
+lastUpdated: 2024-03-17T09:34:06.069Z
 startTime: 2022-09-23T17:20:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
