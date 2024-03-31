@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_ENTRY_MANAGER_URL
-status: up
-code: 200
-responseTime: 234
-lastUpdated: 2024-03-30T23:00:42.782Z
+status: down
+code: 404
+responseTime: 222
+lastUpdated: 2024-03-31T09:17:27.520Z
 startTime: 2022-09-23T17:20:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
