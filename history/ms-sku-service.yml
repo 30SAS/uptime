@@ -1,7 +1,7 @@
 url: $MS_SKU_SERVICE_URL
-status: up
-code: 200
-responseTime: 207
-lastUpdated: 2024-03-30T23:00:44.645Z
+status: down
+code: 404
+responseTime: 216
+lastUpdated: 2024-03-31T09:17:30.824Z
 startTime: 2022-09-23T17:20:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
