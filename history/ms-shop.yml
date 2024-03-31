@@ -1,7 +1,7 @@
 url: $MS_SHOP_URL
-status: down
-code: 404
-responseTime: 226
-lastUpdated: 2024-03-31T09:26:03.514Z
+status: up
+code: 200
+responseTime: 377
+lastUpdated: 2024-03-31T09:51:54.169Z
 startTime: 2022-04-01T23:59:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
