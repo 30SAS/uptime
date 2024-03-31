@@ -1,7 +1,7 @@
 url: $MS_WORKER_POS_URL
-status: up
-code: 200
-responseTime: 262
-lastUpdated: 2024-03-30T23:00:46.573Z
+status: down
+code: 404
+responseTime: 211
+lastUpdated: 2024-03-31T09:17:38.540Z
 startTime: 2022-09-23T17:20:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
