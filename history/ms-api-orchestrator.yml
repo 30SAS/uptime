@@ -1,7 +1,7 @@
 url: $MS_API_ORCHESTRATOR_URL
-status: down
-code: 403
-responseTime: 1023
-lastUpdated: 2024-04-17T14:29:42.303Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2024-04-17T14:38:20.509Z
 startTime: 2022-04-01T23:59:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
