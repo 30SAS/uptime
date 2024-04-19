@@ -1,7 +1,7 @@
 url: $MS_WALLET_GAMIFICATION_URL
-status: down
-code: 503
-responseTime: 256
-lastUpdated: 2024-04-19T09:20:10.714Z
+status: up
+code: 200
+responseTime: 196
+lastUpdated: 2024-04-19T09:28:25.467Z
 startTime: 2022-09-23T17:20:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
