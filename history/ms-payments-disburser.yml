@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_DISBURSER_URL
-status: up
-code: 200
-responseTime: 251
-lastUpdated: 2024-04-23T23:00:50.858Z
+status: down
+code: 404
+responseTime: 192
+lastUpdated: 2024-04-24T16:42:05.984Z
 startTime: 2022-09-23T17:20:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
