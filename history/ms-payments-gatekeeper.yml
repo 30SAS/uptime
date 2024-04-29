@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_GATEKEEPER_URL
-status: up
-code: 200
-responseTime: 210
-lastUpdated: 2024-04-28T23:00:44.317Z
+status: down
+code: 503
+responseTime: 182
+lastUpdated: 2024-04-29T09:20:31.086Z
 startTime: 2022-09-23T17:20:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
