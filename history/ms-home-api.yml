@@ -1,7 +1,7 @@
 url: $MS_HOME_API_URL
-status: down
-code: 503
-responseTime: 220
-lastUpdated: 2024-04-29T09:19:50.199Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2024-04-29T09:28:26.380Z
 startTime: 2022-09-23T17:20:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
