@@ -211,18 +211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ms-payments-api",
     "status": "down",
-    "uptime": "91.58%",
+    "uptime": "91.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.70%",
+    "uptimeYear": "86.69%",
     "time": 229,
     "timeDay": 227,
     "timeWeek": 225,
     "timeMonth": 227,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-05-02": 1391,
+      "2024-05-03": 5,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -838,9 +839,9 @@
     "slug": "ms-payments-disburser",
     "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.94%",
     "time": 211,
     "timeDay": 226,
@@ -848,7 +849,6 @@
     "timeMonth": 214,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2024-05-02": 10,
       "2024-04-24": 66,
       "2024-04-07": 18,
       "2024-03-31": 26,
@@ -1254,7 +1254,8 @@
     "timeMonth": 215,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2024-05-02": 1392,
+      "2024-05-03": 5,
+      "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
       "2024-04-29": 1440,
@@ -1617,8 +1618,7 @@
       "2023-05-08": 1440,
       "2023-05-07": 1440,
       "2023-05-06": 1440,
-      "2023-05-05": 1440,
-      "2023-05-04": 1440
+      "2023-05-05": 1440
     }
   },
   {
