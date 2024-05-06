@@ -1,7 +1,7 @@
 url: $MS_KYC_URL
-status: down
-code: 503
-responseTime: 196
-lastUpdated: 2024-05-06T09:20:46.218Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2024-05-06T09:29:16.200Z
 startTime: 2022-09-23T17:20:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
