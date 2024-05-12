@@ -1,7 +1,7 @@
 url: $MS_WEBHOOK_MOVII_POS_URL
-status: down
-code: 503
-responseTime: 181
-lastUpdated: 2024-05-12T09:21:12.401Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2024-05-12T09:31:05.908Z
 startTime: 2022-09-23T17:20:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
