@@ -1,7 +1,7 @@
 url: $MS_LEDGER_API_URL
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2024-05-14T23:00:46.828Z
+status: down
+code: 503
+responseTime: 241
+lastUpdated: 2024-05-15T09:20:25.179Z
 startTime: 2022-09-23T17:19:52.000Z
 generator: Upptime <https://github.com/upptime/upptime>
