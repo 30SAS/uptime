@@ -1,7 +1,7 @@
 url: $MS_EX_INCOME_URL
-status: down
-code: 503
-responseTime: 237
-lastUpdated: 2024-05-28T09:21:19.924Z
+status: up
+code: 200
+responseTime: 176
+lastUpdated: 2024-05-28T09:29:58.222Z
 startTime: 2022-04-01T23:59:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
