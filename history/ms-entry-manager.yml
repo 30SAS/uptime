@@ -1,7 +1,7 @@
 url: $MS_ENTRY_MANAGER_URL
-status: down
-code: 503
-responseTime: 207
-lastUpdated: 2024-06-01T09:21:17.688Z
+status: up
+code: 200
+responseTime: 178
+lastUpdated: 2024-06-01T09:30:10.456Z
 startTime: 2022-09-23T17:20:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
