@@ -1,7 +1,7 @@
 url: $MS_USERS_URL
-status: down
-code: 503
-responseTime: 196
-lastUpdated: 2024-07-07T09:19:51.545Z
+status: up
+code: 200
+responseTime: 150
+lastUpdated: 2024-07-07T09:29:27.770Z
 startTime: 2022-04-01T23:59:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
