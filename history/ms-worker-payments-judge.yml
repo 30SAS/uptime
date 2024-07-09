@@ -1,7 +1,7 @@
 url: $MS_WORKER_PAYMENTS_JUDGE_URL
-status: down
-code: 503
-responseTime: 198
-lastUpdated: 2024-07-09T09:20:59.465Z
+status: up
+code: 200
+responseTime: 181
+lastUpdated: 2024-07-09T09:29:33.904Z
 startTime: 2022-09-23T17:20:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
