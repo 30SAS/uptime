@@ -1,7 +1,7 @@
 url: $MS_FINTECH_NOTIFICATIONS_URL
-status: down
-code: 503
-responseTime: 131
-lastUpdated: 2024-07-11T09:20:30.448Z
+status: up
+code: 200
+responseTime: 187
+lastUpdated: 2024-07-11T09:30:59.673Z
 startTime: 2022-09-23T17:20:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
