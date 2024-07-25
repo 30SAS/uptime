@@ -1,7 +1,7 @@
 url: $MS_HELP_URL
-status: down
-code: 503
-responseTime: 138
-lastUpdated: 2024-07-25T09:20:27.662Z
+status: up
+code: 200
+responseTime: 226
+lastUpdated: 2024-07-25T09:30:03.953Z
 startTime: 2022-09-23T17:20:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
