@@ -1,7 +1,7 @@
 url: $MS_SYNC_URL
-status: up
-code: 200
-responseTime: 187
-lastUpdated: 2024-08-03T23:00:43.994Z
+status: down
+code: 503
+responseTime: 243
+lastUpdated: 2024-08-04T09:20:06.579Z
 startTime: 2022-09-23T17:20:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
