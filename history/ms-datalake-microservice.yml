@@ -1,7 +1,7 @@
 url: $MS_DATALAKE_MICROSERVICE_URL
 status: up
 code: 200
-responseTime: 226
-lastUpdated: 2024-08-10T23:00:53.075Z
+responseTime: 209
+lastUpdated: 2024-08-11T23:00:39.284Z
 startTime: 2022-09-23T17:20:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
