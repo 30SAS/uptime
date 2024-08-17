@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_URL
-status: down
-code: 503
-responseTime: 211
-lastUpdated: 2024-08-17T09:19:44.632Z
+status: up
+code: 200
+responseTime: 169
+lastUpdated: 2024-08-17T09:28:27.736Z
 startTime: 2022-09-23T17:20:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
