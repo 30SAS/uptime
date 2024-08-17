@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_FEE_MANAGER_URL
-status: down
-code: 503
-responseTime: 211
-lastUpdated: 2024-08-17T09:20:08.753Z
+status: up
+code: 200
+responseTime: 174
+lastUpdated: 2024-08-17T09:28:47.012Z
 startTime: 2022-09-23T17:20:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
