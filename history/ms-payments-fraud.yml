@@ -1,7 +1,7 @@
 url: $MS_PAYMENTS_FRAUD_URL
-status: down
-code: 404
-responseTime: 232
-lastUpdated: 2024-08-17T15:34:30.853Z
+status: up
+code: 200
+responseTime: 180
+lastUpdated: 2024-08-17T15:43:04.746Z
 startTime: 2022-09-23T17:20:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
