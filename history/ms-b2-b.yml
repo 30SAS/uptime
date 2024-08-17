@@ -1,7 +1,7 @@
 url: $MS_B2B_URL
-status: up
-code: 200
-responseTime: 423
-lastUpdated: 2024-08-17T02:34:03.086Z
+status: down
+code: 503
+responseTime: 282
+lastUpdated: 2024-08-17T09:19:53.156Z
 startTime: 2022-04-11T17:31:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
