@@ -1,7 +1,7 @@
 url: $MS_MPOS_URL
-status: down
-code: 503
-responseTime: 197
-lastUpdated: 2024-08-19T09:20:48.715Z
+status: up
+code: 200
+responseTime: 230
+lastUpdated: 2024-08-19T09:30:41.489Z
 startTime: 2022-09-23T17:20:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
