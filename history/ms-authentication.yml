@@ -1,7 +1,7 @@
 url: $MS_AUTHENTICATION_URL
-status: down
-code: 503
-responseTime: 220
-lastUpdated: 2024-08-20T09:20:04.995Z
+status: up
+code: 200
+responseTime: 249
+lastUpdated: 2024-08-20T09:30:10.726Z
 startTime: 2022-09-23T17:20:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
