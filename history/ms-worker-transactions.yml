@@ -1,7 +1,7 @@
 url: $MS_WORKER_TRANSACTIONS_URL
-status: down
-code: 503
-responseTime: 254
-lastUpdated: 2024-08-20T09:19:39.133Z
+status: up
+code: 200
+responseTime: 243
+lastUpdated: 2024-08-20T09:29:57.568Z
 startTime: 2022-09-23T17:20:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
