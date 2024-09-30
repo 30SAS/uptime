@@ -58,11 +58,11 @@ sites:
   #   headers:
   #     - $MS_HEADER
 
-  # - name: MS - USERS
-  #   url: $MS_USERS_URL
-  #   method: GET
-  #   headers:
-  #     - $MS_HEADER
+  - name: MS - USERS
+    url: $MS_USERS_URL
+    method: GET
+    headers:
+      - $MS_HEADER
 
   # - name: MS - STORES
   #   url: $MS_STORES_URL
